@@ -1,11 +1,10 @@
-
 body {
     font-family: Arial, sans-serif;
-    display: flex;    
-    justify-content: center;  
-    align-items: center;      
-    height: 100vh;            
-    margin: 0;         
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 }
 
 
@@ -16,7 +15,8 @@ table {
     margin: 0 auto;
 }
 
-th, td {
+th,
+td {
     border: 1px solid #505050;
     text-align: center;
     padding: 20px;
@@ -30,6 +30,7 @@ th {
     width: 60px;
     font-weight: bold;
 }
+
 /* Colores */
 .cliente {
     background-color: #add8e6;
